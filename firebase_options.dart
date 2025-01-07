@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC-gvovPoj3PNML7XeHHuctvLeA64Ud634',
+    apiKey: '',
     appId: '1:886439775754:android:e6cc0b14acbd145e71d9f3',
     messagingSenderId: '886439775754',
     projectId: 'nettory-9ebd7',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDebAl3h4Rgjo2mxSjUIMxk_vY8sZ_6P5M',
+    apiKey: '',
     appId: '1:886439775754:ios:914af1bb3649467a71d9f3',
     messagingSenderId: '886439775754',
     projectId: 'nettory-9ebd7',
