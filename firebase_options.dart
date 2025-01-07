@@ -51,18 +51,18 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: '',
-    appId: '1:886439775754:android:e6cc0b14acbd145e71d9f3',
-    messagingSenderId: '886439775754',
-    projectId: 'nettory-9ebd7',
-    storageBucket: 'nettory-9ebd7.appspot.com',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: '',
-    appId: '1:886439775754:ios:914af1bb3649467a71d9f3',
-    messagingSenderId: '886439775754',
-    projectId: 'nettory-9ebd7',
-    storageBucket: 'nettory-9ebd7.appspot.com',
-    iosBundleId: 'com.example.nettoryApp',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
